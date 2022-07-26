@@ -8,17 +8,18 @@ The rules of hangman game is:
 The user will have to guess the word given by computer and the user has 6 chances to guess the word. If the user guesses thw word correctly within 6 tries, the user wins and if user fails to guess the word within 6 tries then the user losses the game. If the user guesses the correct word then The user retains the chances he had before he guessed the word.
 example: Suppose the user has 3 tries left and the user chooses the correct word then the user hasa 3 tries still left and the game will continue.
 After losing the user will get the following by program:
-+----+
-  |    |
-  |    0
-  |   /|\   
-  |    |
-  |   / \ 
- _|_
-|   |______
-|          |
-|__________|
-You lost!, the word was : _________
+
+                                    +----+                                                                                  
+                                      |    |
+                                      |    0
+                                      |   /|\   
+                                      |    |
+                                      |   / \ 
+                                     _|_
+                                    |   |______
+                                    |          |
+                                    |__________|
+                                    You lost!, the word was : _________
 
 Instructions to be followed while playing Hangman:
 
@@ -46,16 +47,17 @@ Your word is: ----------
 Your Guess: a
 your wrong guesses are: a
 word: ----------
-  +----+
-  |    |
-  |    0
-  |      
-  |    
-  |    
- _|_
-|   |______
-|          |
-|__________|
+
+                                      +----+
+                                      |    |
+                                      |    0
+                                      |      
+                                      |    
+                                      |    
+                                     _|_
+                                    |   |______
+                                    |          |
+                                    |__________|
 
  Sample List of Words
 "computer|radio|calculator|teacher|bureau|police|geometry|president|subject|country|en
